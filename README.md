@@ -2,19 +2,19 @@
 <h2 align="center">Student Id: I4G014604DCD</h2>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/giftbalogun/zuri-giftbalogun-django?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/giftbalogun/zuriteam?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/giftbalogun/zuri-giftbalogun-django?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/giftbalogun/zuriteam?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/giftbalogun/zuri-giftbalogun-django?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/giftbalogun/zuriteam?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/giftbalogun/zuri-giftbalogun-django?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/giftbalogun/zuriteam?color=56BEB8">
 </p>
 
 <!-- Status -->
 
 <h4 align="center">
-	🚧  This Blog is 🚀 Under construction...  🚧
+	🚧  This Task 🚀 Under construction...  🚧
 </h4>
 
 <hr>
@@ -49,17 +49,17 @@ Before starting :checkered_flag:, you need to have [Python](https://img.shields.
 
 ```bash
 # Clone this project
-$ git clone https://github.com/giftbalogun/zuri-giftbalogun-django
+$ git clone https://github.com/giftbalogun/zuriteam
 
 # Access
-$ cd zuri-giftbalogun-django
+$ cd zuriteam
 
 # The server will initialize in the <http://localhost:3000>
 ```
 
 ## :memo: License
 
-Made with :heart: by <a href="https://github.com/giftbalogun" target="_blank">{{YOUR_NAME}}</a>
+Made with :heart: by <a href="https://github.com/giftbalogun" target="_blank">Gift Balogun</a>
 
 &#xa0;
 
